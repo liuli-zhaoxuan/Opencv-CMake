@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)  # 最低 CMake 版本
+project(cmake_study)
+
+add_subdirectory(src/opencv)
+add_subdirectory(src/opencv_2)
